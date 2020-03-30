@@ -1,0 +1,11 @@
+{
+    "name": "srikanth/instamojo",
+    "description": "Instamojo paymentgateway Integration",
+    "authors": [
+        {
+            "name": "Srikanth Kudikala",
+            "email": "srikanth.240369@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
